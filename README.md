@@ -22,9 +22,11 @@ Mario Plan is a fully responsive web application based on [React, Redux & Fireba
 
 ## Installation
 Clone the repository
+
 ` git clone https://github.com/alexn29/marioplan-react-redux-firebase.git`
 
 In the project directory (root folder), install the dependencies
+
 `npm install`
 
 Create **.env** file in the root folder and place the following code. Dont forget to add the firebase configuration.
@@ -39,13 +41,17 @@ REACT_APP_FIREBASE_MEASUREMENT_ID = ""
 ```
 
 Run the project 
+
 `npm start`
 
 Finally, open your web browser and navigate to
+
 http://localhost:3000/
 
 ## Live Demo
 
 **Url:** https://marioplan-f583a.web.app
+
 **User:** princess@peach.us
+
 **Password:** 123456
